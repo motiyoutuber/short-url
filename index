@@ -1,0 +1,10 @@
+<DOCTYPE html>
+    <title>短縮リンクもち専用</title>
+    <script>
+
+        window.onload = function(){
+        document.location.href="https://youtubemoti.wixsite.com/motinohiroba";
+        }
+        
+        </script>
+</DOCTYPE>
